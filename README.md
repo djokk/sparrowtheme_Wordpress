@@ -11,10 +11,10 @@
     <h2>Загрузка дефолтных данных через sparrowtheme.sql</h2>
     <p>1: Открываем файл в любой редакторе</p>
     <p>2: В строке 768 и 769 замените на вашу домен <br>
-        &nbsp;&nbsp;&nbsp;&nbsp;Например: (1, 'siteurl', 'http://sparrow', 'yes'),<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;<b>Например: </b>(1, 'siteurl', 'http://sparrow', 'yes'),<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2, 'home', 'http://sparrow', 'yes'),<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;На: (1, 'siteurl', 'http://Girdes.com', 'yes'),<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2, 'home', 'http://Girdes.com', 'yes'),
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>На: </b>(1, 'siteurl', 'https://Girdes.com', 'yes'),<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2, 'home', 'https://Girdes.com', 'yes'),
     </p>
     <p>3: Имортируйте на вашу БД</p>
